@@ -1,0 +1,7 @@
+{
+	"name": "SHIR-BIA-EstudioLocal",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "SHIR registered at WC01.estudio.local"
+	}
+}
